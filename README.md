@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Justin Klein (@justinklein2001)
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Java, React.js, Node.js
-- 💞️ I’m looking to collaborate on any full-stack project
-- 📫 How to reach me @ https://www.justinklein.ca
+- 👀 I’m interested in building modern web apps that solve problems I find in everyday life
+- I like hosting them locally on my LAN!
 
 <!---
 justinklein2001/justinklein2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
