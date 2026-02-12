@@ -1,5 +1,5 @@
 ## Who are you?
-- I'm Justin, a 24 yo software developer based in Toronto, ON 🇨🇦.
+- I'm Justin, a software developer based in Toronto, ON 🇨🇦.
 
 ## What do you do?
 - I work with small businesses to modernize their legacy IT stacks and migrate them to the cloud.
@@ -12,9 +12,9 @@
 
 ## What's your stack?
 - **Frontend**: React, Next.js, Tailwind, MaterialUI, Bootstrap
-- **Backend**: Node (Express, NestJS), Python (Flask), PHP
+- **Backend**: Node (Express, NestJS), Python (Flask), Spring, PHP
 - **Cloud**: AWS, Azure
-- **DB**: Postgres, MySQL
+- **DB**: Postgres, MySQL, DynamoDB
 - **DevOps**: Docker, Terraform, GitHub Actions, Azure DevOps
 
 ## What's next?
