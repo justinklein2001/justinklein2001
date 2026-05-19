@@ -1,5 +1,5 @@
 ## Who are you?
-- I'm Justin, a software developer based in Toronto, ON 🇨🇦.
+- I'm Justin, a software developer based in Georgetown, ON 🇨🇦.
 
 ## What do you do?
 - I work with small businesses to modernize their legacy IT stacks and migrate them to the cloud.
