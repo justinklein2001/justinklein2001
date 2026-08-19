@@ -1,5 +1,5 @@
 ## Who are you?
-- I'm Justin, a software engineer based in Georgetown, ON 🇨🇦.
+- I'm Justin, a Software Engineer based in Georgetown, ON, Canada (Toronto if you're not from around here!) 🇨🇦.
 
 ## What do you do?
 - I work full-time as an embedded C++ Software Engineer.
