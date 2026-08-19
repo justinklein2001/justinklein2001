@@ -2,9 +2,9 @@
 - I'm Justin, a software engineer based in Georgetown, ON 🇨🇦.
 
 ## What do you do?
-- I work full-time as an embedded C++ developer.
-- I have a rich history of more cutting-edge development experience, and keep my coding skills sharp in my free time.
-- I work on personal projects that solve **real** problems in my life.
+- I work full-time as an embedded C++ Software Engineer.
+- I have a rich history of both modern and cutting-edge development experience; I can hyperscale cloud provisions, but get memory-level granular on a no-DB embedded system.
+- In my free time, I work on personal projects that solve **real** problems in my life.
 
 ## What's your background?
 - I have 4 years of professional software development experience across enterprise, startups, SMBs and non-profits (NCR Corporation, Bulloch Technologies, Tulip Retail, Adknown and Heart & Stroke, to name a few).
