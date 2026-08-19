@@ -3,7 +3,7 @@
 
 ## What do you do?
 - I work full-time as an embedded C++ Software Engineer.
-- I have a rich history of both modern and cutting-edge development experience; I can hyperscale cloud provisions, but get memory-level granular on a no-DB embedded system.
+- I have a rich history of both legacy and cutting-edge development experience; I can hyperscale cloud provisions, but get memory-level granular on a no-DB embedded system.
 - In my free time, I work on personal projects that solve **real** problems in my life.
 
 ## What's your background?
